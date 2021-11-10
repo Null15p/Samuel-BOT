@@ -3,23 +3,21 @@ return `PAYMENT BY ZEEONE OFC
 
 *さ BANK*
 1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
+	ㅁ Gapunya Om
+		• :v
 		
 *さ E-MONEY*
-1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ Gapunya Om
+		• :v
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 088211974450
+		• :)
 
 *さ PULSA*
-
-Tidak tersedia
+4. PULSA
+        ㅁ 088211974450
+                • :)
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
