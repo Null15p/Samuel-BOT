@@ -3987,7 +3987,7 @@ ${anime.desc}\n\n*Link Batch* : ${anime.batch}\n*Link Download SD* : ${anime.bat
 			        if (!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.onlyOwner())
 					if (!q) return fakegroup(mess.wrongFormat)
 					exec(q, (err, stdout) => {
-					if (err) return fakegroup(`ALPHABOT:~ ${err}`)
+					if (err) return fakegroup(`SAMUEL BOT:~ ${err}`)
 					if (stdout) {
 					fakegroup(stdout)
 					}
